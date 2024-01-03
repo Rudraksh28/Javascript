@@ -28,8 +28,8 @@ Each section contains code examples and explanations to help you grasp the conce
 
 ## Usage
 
-Feel free to clone or fork this repository to explore the code and examples. You can also use it as a reference while learning or teaching JavaScript basics.
-
 Main File is the index.html for the 1,2,3,4,5,11,12 Javascript file.
 
 Just Open the index.html file and whatever javascript you want to run, Just uncomment the Javascript file in the index.html.
+
+Feel free to clone or fork this repository to explore the code and examples. You can also use it as a reference while learning or teaching JavaScript basics.
